@@ -20,7 +20,7 @@ The official implementation of the DiffPNG paper in PyTorch.
 ```shell
 pip install -r requirements.txt
 ```
-2. cd segment-anything && pip install -e . && cd ..
+2. cd segment-anything-third-party && pip install -e . && cd ..
 
 3. put SAM pretrained model https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth into ./segment-anything
 
